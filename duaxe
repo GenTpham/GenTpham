@@ -1,0 +1,124 @@
+import pygame
+pygame.init()
+clock = pygame.time.Clock()
+pygame.display.set_caption('dua xe')
+screen = pygame.display.set_mode((750,750))
+bg = pygame.image.load(r'D:\game\demo1\anh\cfbb3155076bdf35867a (1).jpg')
+xe = pygame.image.load(r'D:\game\demo1\anh\xe (1) (1) (2).png')
+cay = pygame.image.load(r'D:\game\demo1\anh\lovepik-roadblock-png-image_400507752_wh860 (1) (3) (3).png')
+cay2= pygame.image.load(r'D:\game\demo1\anh\lovepik-roadblock-png-image_400507752_wh860 (1) (3) (3).png')
+cay3 = pygame.image.load(r'D:\game\demo1\anh\lovepik-roadblock-png-image_400507752_wh860 (1) (3) (3).png')
+game_play = True
+jump = False
+jump2 = False
+bg_x, bg_y =0,0
+xe_x, xe_y = 340,550
+cay_x, cay_y =330,0
+cay2_x, cay2_y = 470,-750
+cay3_x, cay3_y = 170,-1500
+y_def = -5
+x_def = 5
+x_def2 = 5
+x_def3 = 2
+score = 0
+hscore = 0
+nscore = 0
+sound1 = pygame.mixer.Sound(r'D:\game\demo1\sound\tiengno.mp3')
+game_font = pygame.font.Font(r'D:\game\demo1\font chu\04B_19.TTF',20)
+def score_view ():
+    if game_play:
+        score_txt = game_font.render(f'Diem: {int(score)}',True,(255,255,255))
+        screen.blit(score_txt,(0,50))
+        nscore_txt = game_font.render(f'Diem cao nhat: {int(nscore)}',True,(255,255,255))
+        screen.blit(nscore_txt,(0,70))
+    else:
+        score_txt = game_font.render(f'Diem: {int(score)}',True,(255,255,255))
+        screen.blit(score_txt,(0,50))
+        hscore_txt = game_font.render(f'Diem dat duoc: {int(hscore)}',True,(255,255,255))
+        screen.blit(hscore_txt,(295,150))
+        over_txt = game_font.render(f'Game over',True,(255,0,0))
+        screen.blit(over_txt,(320,250))
+        choilai_txt = game_font.render(f'nhan space de choi lai',True,(255,0,0))
+        screen.blit(choilai_txt,(260,300))
+        nscore_txt = game_font.render(f'Diem cao nhat: {int(nscore)}',True,(255,255,255))
+        screen.blit(nscore_txt,(0,70))
+def checkvc():
+    if xe_hcn.colliderect(cay_hcn):
+        #pygame.mixer.Sound.play(sound1)
+        return False
+    if xe_hcn.colliderect(cay2_hcn):
+        #pygame.mixer.Sound.play(sound1)
+        return False
+    if xe_hcn.colliderect(cay3_hcn):
+        #pygame.mixer.Sound.play(sound1)
+        return False
+    return True
+running = True
+while running:
+    clock.tick(70)
+    for event in pygame.event.get():
+        if event.type == pygame.QUIT:
+            running = False
+        if event.type == pygame.KEYDOWN:
+            if event.key == pygame.K_LEFT and game_play:
+                if xe_x == 340:
+                    jump = True
+            if event.key == pygame.K_RIGHT and game_play:
+                if xe_x == 340:
+                    jump2 = True
+            if event.key == pygame.K_SPACE and game_play == False:
+                game_play = True
+    if game_play:
+        bg_hcn = screen.blit(bg,(bg_x,bg_y))
+        bg2_hcn = screen.blit(bg,(bg_x,bg_y - 750))
+        bg_y -= y_def
+        if bg_y == 750:
+            bg_y = 0
+        xe_hcn = screen.blit(xe,(xe_x,xe_y))
+        if xe_x >= 170 and jump == True:
+            xe_x -= x_def
+        else:
+            jump = False
+        if xe_x <340 and jump ==False:
+            xe_x += x_def
+        if xe_x <= 500 and jump2 == True:
+            xe_x += x_def2
+        else:
+            jump2 = False
+        if xe_x >340 and jump2 ==False:
+            xe_x -= x_def2
+        cay_hcn = screen.blit(cay,(cay_x,cay_y))
+        cay_y += x_def
+        if cay_y == 770:
+            cay_y =0
+        cay2_hcn = screen.blit(cay2,(cay2_x,cay2_y))
+        cay2_y += x_def
+        if cay2_y == 820:
+            cay2_y =-200
+        cay3_hcn = screen.blit(cay3,(cay3_x,cay3_y))
+        cay3_y += x_def
+        if cay3_y == 820:
+            cay3_y =-1000
+        score += 0.007
+        hscore = score
+        if nscore < score:
+            nscore = score
+        if score > 10:
+            cay3_y = -1500
+        game_play= checkvc()
+        score_view()
+    else:
+        bg_x, bg_y = 0, 0
+        xe_x, xe_y = 340,550
+        cay_x, cay_y =330,0
+        cay2_x, cay2_y = 470,-750
+        cay3_x, cay3_y = 170,-1500
+        bg_hcn = screen.blit(bg,(bg_x,bg_y))
+        bg2_hcn = screen.blit(bg,(bg_x,bg_y - 750))
+        xe_hcn = screen.blit(xe,(xe_x,xe_y))
+        cay_hcn = screen.blit(cay,(cay_x,cay_y))
+        cay2_hcn = screen.blit(cay2,(cay2_x,cay2_y))
+        cay3_hcn = screen.blit(cay3,(cay3_x,cay3_y))
+        score =0
+        score_view()
+    pygame.display.update()
