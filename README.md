@@ -33,9 +33,12 @@
 ## 🛠️ Kỹ năng & Công nghệ
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-blueviolet)
-![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-orange)
-![Git](https://img.shields.io/badge/-Git-black?logo=git)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blueviolet?style=flat)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-orange?style=flat)
+![Langchain](https://img.shields.io/badge/Langchain-00B4D8?style=flat)
+![Transformer](https://img.shields.io/badge/Transformer-NLP-9B59B6?style=flat)
+![n8n](https://img.shields.io/badge/n8n-FF5914?style=flat&logo=n8n&logoColor=white)
+![Git](https://img.shields.io/badge/Git-black?style=flat&logo=git)
 <!-- Thêm các badge khác nếu bạn học thêm các công nghệ khác -->
 
 ---
