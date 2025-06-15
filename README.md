@@ -66,6 +66,8 @@
   Dự án sử dụng Python để phân tích, xử lý và trích xuất thông tin từ các tài liệu văn bản tự động. Hướng tới ứng dụng AI vào thực tiễn, giúp tối ưu hoá công việc xử lý tài liệu.
 - [Filter-Intern-Jobs](https://github.com/GenTpham/filter-ai-intern-jobs):  
   Dự án sử dụng workflow n8n tự động hóa quá trình tìm kiếm cơ hội thực tập AI, Machine Learning và công nghệ trên LinkedIn. Hệ thống chạy mỗi 12 giờ một lần, quét nhiều trang tìm kiếm việc làm LinkedIn, lọc các vị trí phù hợp và gửi thông báo được định dạng đẹp mắt qua Slack với những cơ hội mới nhất.
+- [AI Financial Analyst - MCP System](https://github.com/GenTpham/AI-Financial-Analyst_MCP):  
+  Hệ thống phân tích tài chính thông minh sử dụng AI và Machine Learning
 ---
 
 ## 💡 Châm ngôn yêu thích
