@@ -2,70 +2,129 @@
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" alt="Banner" />
 </p>
 
-<h1 align="center">👋 Xin chào, mình là Phạm Trung Trực (GenTpham)</h1>
+<h1 align="center">Hi 👋, I'm Pham Trung Truc (GenTpham)</h1>
+<h3 align="center">🚀 AI Engineer | LLM & Agentic AI Developer | Building Intelligent Systems</h3>
 
 <p align="center">
   <a href="mailto:phamtruc120604@gmail.com">
-    <img src="https://img.shields.io/badge/Email-liên hệ-red?style=flat-square&logo=gmail" alt="Email" />
-  </a>
-  <a href="https://www.facebook.com/trung.truc.31372/">
-    <img src="https://img.shields.io/badge/Facebook-Kết nối-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/pham-trung-truc-49ab3331a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Kết nối-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/trung.truc.31372/">
+    <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
   <a href="https://github.com/GenTpham">
-    <img src="https://img.shields.io/github/followers/GenTpham?label=Follow&style=social" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/GenTpham?label=Followers&style=for-the-badge"/>
   </a>
 </p>
 
----
-
-## 🚀 Giới thiệu
-
-- 🔭 Tên thật: **Phạm Trung Trực**
-- 💡 Định hướng: Mong muốn trở thành ** Senior AI Engineer**
-- 📫 Email liên hệ: [phamtruc120604@gmail.com](mailto:phamtruc120604@gmail.com)
-- 🌱 Hiện đang tích cực học hỏi về Trí tuệ nhân tạo, Machine Learning và các công nghệ liên quan.
-
----
-
-## 🛠️ Kỹ năng & Công nghệ
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blueviolet?style=flat)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-orange?style=flat)
-![Langchain](https://img.shields.io/badge/Langchain-00B4D8?style=flat)
-![Transformer](https://img.shields.io/badge/Transformer-NLP-9B59B6?style=flat)
-![n8n](https://img.shields.io/badge/n8n-FF5914?style=flat&logo=n8n&logoColor=white)
-![Git](https://img.shields.io/badge/Git-black?style=flat&logo=git)
-<!-- Thêm các badge khác nếu bạn học thêm các công nghệ khác -->
-
----
-
-## 📈 Thống kê GitHub
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GenTpham&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GenTpham&theme=radical" alt="streak" />
+  <img src="https://komarev.com/ghpvc/?username=GenTpham&label=Profile%20Views&color=0e75b6&style=flat-square"/>
 </p>
 
 ---
 
-## 🌱 Mục tiêu phát triển
+## 🚀 About Me
 
-- Học vững các kiến thức nền tảng về AI/Machine Learning
-- Tham gia dự án thực tế, xây dựng sản phẩm ứng dụng AI
-- Đóng góp cho cộng đồng mã nguồn mở
+```python
+class PhamTrungTruc:
+
+    name = "Pham Trung Truc"
+    alias = "GenTpham"
+
+    role = "AI Engineer"
+
+    interests = [
+        "Large Language Models",
+        "AI Agents",
+        "Machine Learning",
+        "Generative AI",
+        "Computer Vision",
+        "Automation"
+    ]
+
+    current_goal = "Becoming a Senior AI Engineer"
+
+    motto = "Learn. Build. Improve. Repeat."
+```
+
+- 🔭 Currently building **production-ready AI applications**
+- 🤖 Passionate about **LLMs, AI Agents, RAG, GraphRAG, and AI Automation**
+- 🌱 Constantly exploring **Machine Learning, Deep Learning, and AI Infrastructure**
+- 💡 Love turning complex problems into practical AI solutions
+- 📫 Reach me at **phamtruc120604@gmail.com**
 
 ---
 
-## 💡 Châm ngôn yêu thích
+## ⚡ Tech Stack
 
-> "Không ngừng học hỏi – Không ngừng phát triển!"
+### 💻 Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### 🤖 AI & Machine Learning
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-00B894?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
+![FAISS](https://img.shields.io/badge/FAISS-00599C?style=for-the-badge)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
+
+### ☁️ Backend & DevOps
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GenTpham&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=GenTpham&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GenTpham&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🎯 2026 Goals
+
+- 🚀 Build impactful AI products used by real users
+- 🤖 Master LLMs, AI Agents, and Multi-Agent Systems
+- 📚 Deepen expertise in Machine Learning & Deep Learning
+- 🌍 Contribute to Open Source AI projects
+- ⭐ Grow as a Senior AI Engineer
+
+---
+
+## 🌟 Quote I Live By
+
+> **"Stay curious. Keep building. Never stop learning."**
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="150" />
+  <img src="https://github-profile-trophy.vercel.app/?username=GenTpham&theme=algolia&margin-w=10&no-frame=true"/>
 </p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="180"/>
+</p>
+
+<h3 align="center">
+✨ Thanks for visiting my profile! Have a great day! ✨
+</h3>
