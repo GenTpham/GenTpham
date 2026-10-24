@@ -78,22 +78,22 @@ A selection of the languages and tools in my toolkit.
 ### Contribution streak
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=GenTpham&amp;hide_border=true&amp;border_radius=12&amp;background=0D1117&amp;ring=3BA776&amp;fire=3BA776&amp;currStreakLabel=81C7A4&amp;sideLabels=E6EDF3&amp;currStreakNum=E6EDF3&amp;sideNums=E6EDF3&amp;dates=9DA7B3" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=GenTpham&amp;hide_border=true&amp;border_radius=12&amp;background=F6F8FA&amp;ring=23845B&amp;fire=23845B&amp;currStreakLabel=23845B&amp;sideLabels=24292F&amp;currStreakNum=24292F&amp;sideNums=24292F&amp;dates=57606A" />
-  <img src="https://streak-stats.demolab.com/?user=GenTpham&amp;hide_border=true&amp;border_radius=12&amp;background=F6F8FA&amp;ring=23845B&amp;fire=23845B&amp;currStreakLabel=23845B&amp;sideLabels=24292F&amp;currStreakNum=24292F&amp;sideNums=24292F&amp;dates=57606A" alt="Total contributions, current streak and longest contribution streak for GenTpham" width="100%" loading="lazy" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=GenTpham&amp;disable_animations=false&amp;hide_border=true&amp;border_radius=12&amp;background=0D1117&amp;ring=3BA776&amp;fire=3BA776&amp;currStreakLabel=81C7A4&amp;sideLabels=E6EDF3&amp;currStreakNum=E6EDF3&amp;sideNums=E6EDF3&amp;dates=9DA7B3" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=GenTpham&amp;disable_animations=false&amp;hide_border=true&amp;border_radius=12&amp;background=F6F8FA&amp;ring=23845B&amp;fire=23845B&amp;currStreakLabel=23845B&amp;sideLabels=24292F&amp;currStreakNum=24292F&amp;sideNums=24292F&amp;dates=57606A" />
+  <img src="https://streak-stats.demolab.com/?user=GenTpham&amp;disable_animations=false&amp;hide_border=true&amp;border_radius=12&amp;background=F6F8FA&amp;ring=23845B&amp;fire=23845B&amp;currStreakLabel=23845B&amp;sideLabels=24292F&amp;currStreakNum=24292F&amp;sideNums=24292F&amp;dates=57606A" alt="Total contributions, current streak and longest contribution streak for GenTpham" width="100%" loading="lazy" />
 </picture>
 
 ### At a glance
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GenTpham&amp;theme=github_dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GenTpham&amp;theme=github" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GenTpham&amp;theme=github" alt="GitHub statistics for GenTpham" width="49%" loading="lazy" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GenTpham&amp;theme=github_dark&amp;animation=load&amp;duration=3" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GenTpham&amp;theme=github&amp;animation=load&amp;duration=3" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GenTpham&amp;theme=github&amp;animation=load&amp;duration=3" alt="GitHub statistics for GenTpham" width="49%" loading="lazy" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GenTpham&amp;theme=github_dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GenTpham&amp;theme=github" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GenTpham&amp;theme=github" alt="Languages across public repositories for GenTpham" width="49%" loading="lazy" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GenTpham&amp;theme=github_dark&amp;animation=draw&amp;duration=3" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GenTpham&amp;theme=github&amp;animation=draw&amp;duration=3" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GenTpham&amp;theme=github&amp;animation=draw&amp;duration=3" alt="Languages across public repositories for GenTpham" width="49%" loading="lazy" />
 </picture>
 
 <sub>Language distribution reflects repository composition, not proficiency.</sub>
