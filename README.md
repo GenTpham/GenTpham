@@ -86,14 +86,14 @@ A selection of the languages and tools in my toolkit.
 ### At a glance
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GenTpham&amp;theme=github_dark&amp;animation=load&amp;duration=3" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GenTpham&amp;theme=github&amp;animation=load&amp;duration=3" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GenTpham&amp;theme=github&amp;animation=load&amp;duration=3" alt="GitHub statistics for GenTpham" width="49%" loading="lazy" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GenTpham&amp;theme=github_dark&amp;animation=rgb-soft&amp;duration=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GenTpham&amp;theme=github&amp;animation=rgb-soft&amp;duration=8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GenTpham&amp;theme=github&amp;animation=rgb-soft&amp;duration=8" alt="GitHub statistics for GenTpham" width="49%" loading="lazy" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GenTpham&amp;theme=github_dark&amp;animation=draw&amp;duration=3" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GenTpham&amp;theme=github&amp;animation=draw&amp;duration=3" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GenTpham&amp;theme=github&amp;animation=draw&amp;duration=3" alt="Languages across public repositories for GenTpham" width="49%" loading="lazy" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GenTpham&amp;theme=github_dark&amp;animation=rgb-soft&amp;duration=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GenTpham&amp;theme=github&amp;animation=rgb-soft&amp;duration=8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GenTpham&amp;theme=github&amp;animation=rgb-soft&amp;duration=8" alt="Languages across public repositories for GenTpham" width="49%" loading="lazy" />
 </picture>
 
 <sub>Language distribution reflects repository composition, not proficiency.</sub>
